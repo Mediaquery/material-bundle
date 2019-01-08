@@ -29,7 +29,7 @@
         "symfony/phpunit-bridge": "^3.2"
     },
     "extra": {
-        "contao-manager-plugin": "Contao\\MaterialBundle\\ContaoManager\\Plugin"
+        "contao-manager-plugin": "Mediaquery\\MaterialBundle\\ContaoManager\\Plugin"
     },
     "autoload": {
         "psr-4": {

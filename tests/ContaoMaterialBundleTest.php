@@ -10,7 +10,7 @@
 
 namespace Contao\MaterialBundle\Tests;
 
-use Contao\SkeletonBundle\ContaoMaterialBundle;
+use Mediaquery\MaterialBundle\ContaoMaterialBundle;
 use PHPUnit\Framework\TestCase;
 
 class ContaoMaterialBundleTest extends TestCase

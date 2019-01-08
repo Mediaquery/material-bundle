@@ -8,7 +8,7 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Contao\MaterialBundle;
+namespace Mediaquery\MaterialBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
